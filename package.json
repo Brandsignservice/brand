@@ -1,0 +1,11 @@
+{
+  "name": "brand-sign-agency",
+  "version": "1.0.0",
+  "description": "Brand Sign — Creative Marketing Agency Website (Product Photography, Poster Design & UGC Ads)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "private": true
+}
