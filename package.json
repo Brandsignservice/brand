@@ -1,11 +1,15 @@
 {
-  "name": "brand-sign-agency",
+  "name": "brand-sign-site",
   "version": "1.0.0",
-  "description": "Brand Sign — Creative Marketing Agency Website (Product Photography, Poster Design & UGC Ads)",
-  "main": "server.js",
+  "private": true,
+  "description": "Brand Sign — premium minimalist agency website (product photography, poster design, UGC ads).",
   "scripts": {
-    "start": "node server.js",
-    "dev": "node server.js"
+    "build": "node -e \"console.log('Static site — no build step required.')\"",
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "serve": "node server.mjs"
   },
-  "private": true
+  "engines": {
+    "node": ">=18"
+  }
 }

@@ -1,0 +1,384 @@
+{
+  "$comment": "Slot map for the Brand Sign website. Each slot is a live image area: drop a file with the same name into assets/projects/ and the image swaps in automatically (designed placeholder frame is the fallback). The library folder holds the client's full archive, pulled from the Google Drive folder 'Brand'.",
+  "driveFolder": {
+    "name": "Brand",
+    "id": "1zlG0TzcEaW9Co2adT_T40T5DD_V1-c3a",
+    "link": "https://drive.google.com/drive/folders/1zlG0TzcEaW9Co2adT_T40T5DD_V1-c3a"
+  },
+  "logo": {
+    "source": "assets/img/logo-mark.png",
+    "lockup": "assets/img/logo-lockup.png",
+    "driveName": "370754843_1792244123227068.jpg",
+    "driveId": "19TcsGRBBBGltp99Y92lK72xhQd8Y1PdA"
+  },
+  "slots": [
+    {
+      "fileName": "hero-01.jpg",
+      "slot": "hero",
+      "ratio": "4:5",
+      "usage": "Hero — main frame",
+      "alt": "Noir perfume bottle photographed in dramatic red light",
+      "currentSource": {
+        "libraryFile": "library/noir-perfume-still.jpg",
+        "driveName": "d31ea214f8610d79d5c4920126a2b1c7.jpg",
+        "driveId": "1vdGKfh8_AOBPdgZvAoKUbEArdLTLvlZy",
+        "driveLink": "https://drive.google.com/file/d/1vdGKfh8_AOBPdgZvAoKUbEArdLTLvlZy/view"
+      }
+    },
+    {
+      "fileName": "hero-02.jpg",
+      "slot": "hero",
+      "ratio": "1:1",
+      "usage": "Hero — creator frame",
+      "alt": "Model holding a gold serum bottle in warm studio light",
+      "currentSource": {
+        "libraryFile": "library/serum-gold-creator.jpg",
+        "driveName": "7f58f14730e0627d1f9e90324e9f2cbd.jpg",
+        "driveId": "1n358IZyJGg9d_Kj7qmj81JSMtXv3bsfV",
+        "driveLink": "https://drive.google.com/file/d/1n358IZyJGg9d_Kj7qmj81JSMtXv3bsfV/view"
+      }
+    },
+    {
+      "fileName": "hero-03.jpg",
+      "slot": "hero",
+      "ratio": "3:4",
+      "usage": "Hero — poster frame",
+      "alt": "Radiance cream campaign poster",
+      "currentSource": {
+        "libraryFile": "library/radiance-cream-poster.jpg",
+        "driveName": "16c0a3e6634c5f41bf005c13e0203e47.jpg",
+        "driveId": "1SAhPMWQDl6K3BS3MWv0FaoektRHSI6K4",
+        "driveLink": "https://drive.google.com/file/d/1SAhPMWQDl6K3BS3MWv0FaoektRHSI6K4/view"
+      }
+    },
+    {
+      "fileName": "work-01.jpg",
+      "slot": "work",
+      "ratio": "4:5",
+      "usage": "Mystic Oud — Studio Still Life (feature tile)",
+      "alt": "Mystic Oud perfume bottle photographed on driftwood",
+      "currentSource": {
+        "libraryFile": "library/mystic-oud-studio.jpg",
+        "driveName": "00a8e0dfb427c8d89999256e7f21b2b3.jpg",
+        "driveId": "12CzYKFMSy_P6mHEAkZBlJBq-QOibm1JG",
+        "driveLink": "https://drive.google.com/file/d/12CzYKFMSy_P6mHEAkZBlJBq-QOibm1JG/view"
+      }
+    },
+    {
+      "fileName": "work-02.jpg",
+      "slot": "work",
+      "ratio": "4:5",
+      "usage": "Roots Rebooted — Creator Ad",
+      "alt": "Creator-style ad frame for a men's hair product",
+      "currentSource": {
+        "libraryFile": "library/roots-rebooted-ugc.jpg",
+        "driveName": "6f827e72483f6be6742761ad87b9398c.jpg",
+        "driveId": "1ph25raWFNvqTF4JuL1wOQ345XEKB-DI9",
+        "driveLink": "https://drive.google.com/file/d/1ph25raWFNvqTF4JuL1wOQ345XEKB-DI9/view"
+      }
+    },
+    {
+      "fileName": "work-03.jpg",
+      "slot": "work",
+      "ratio": "4:5",
+      "usage": "Tropica Mango — Campaign Poster",
+      "alt": "Tropica Mango campaign poster",
+      "currentSource": {
+        "libraryFile": "library/tropica-mango-poster.jpg",
+        "driveName": "9ea7273d17643ca219b1247a945c1042.jpg",
+        "driveId": "1TKHPydqWaq2tc52wIGC3cSFQgptM8aAm",
+        "driveLink": "https://drive.google.com/file/d/1TKHPydqWaq2tc52wIGC3cSFQgptM8aAm/view"
+      }
+    },
+    {
+      "fileName": "work-04.jpg",
+      "slot": "work",
+      "ratio": "4:5",
+      "usage": "Aloe Vera — Splash Catalogue Shot",
+      "alt": "Aloe vera tube shot with a water splash",
+      "currentSource": {
+        "libraryFile": "library/aloe-splash-catalogue.jpg",
+        "driveName": "466e010371269a9e7602d49d84976d43.jpg",
+        "driveId": "1wR75cyhJfezkv37uUqfYotDOM3JldY1Z",
+        "driveLink": "https://drive.google.com/file/d/1wR75cyhJfezkv37uUqfYotDOM3JldY1Z/view"
+      }
+    },
+    {
+      "fileName": "work-05.jpg",
+      "slot": "work",
+      "ratio": "4:5",
+      "usage": "Medikube — Routine Creator Cut",
+      "alt": "Model holding a skincare serum bottle",
+      "currentSource": {
+        "libraryFile": "library/medikube-creator.jpg",
+        "driveName": "98250c358534f7ef078cb1d39897722d.jpg",
+        "driveId": "1_1hBI8JeEHRXJe5qnWhayGuCbmTxzrg7",
+        "driveLink": "https://drive.google.com/file/d/1_1hBI8JeEHRXJe5qnWhayGuCbmTxzrg7/view"
+      }
+    },
+    {
+      "fileName": "work-06.jpg",
+      "slot": "work",
+      "ratio": "4:5",
+      "usage": "Freshgro — Launch Poster",
+      "alt": "Freshgro cranberry can launch poster",
+      "currentSource": {
+        "libraryFile": "library/freshgro-cranberry-poster.jpg",
+        "driveName": "c38c6a9dc53bb23cf302b2044b23c7a9.jpg",
+        "driveId": "1Rx5-0bBdxF00eS5vpGM1fJVdD_oAtJS-",
+        "driveLink": "https://drive.google.com/file/d/1Rx5-0bBdxF00eS5vpGM1fJVdD_oAtJS-/view"
+      }
+    },
+    {
+      "fileName": "work-07.jpg",
+      "slot": "work",
+      "ratio": "4:5",
+      "usage": "Oud Vanilla — Editorial Still",
+      "alt": "Oud Vanilla perfume bottle styled on rope",
+      "currentSource": {
+        "libraryFile": "library/oud-vanilla-editorial.jpg",
+        "driveName": "a2d5009bcf2cb95b3cbb6bce0772baf2.jpg",
+        "driveId": "1eaIwzwhn7N1_Txm_xsS7ipZ9UCjZ9ccP",
+        "driveLink": "https://drive.google.com/file/d/1eaIwzwhn7N1_Txm_xsS7ipZ9UCjZ9ccP/view"
+      }
+    },
+    {
+      "fileName": "work-08.jpg",
+      "slot": "work",
+      "ratio": "4:5",
+      "usage": "Drygh — Lifestyle Ad Frame",
+      "alt": "Lifestyle frame of a skincare bottle held by a model",
+      "currentSource": {
+        "libraryFile": "library/drygh-lifestyle.jpg",
+        "driveName": "c8a60a7cea6650d869bfe719d205d43e.jpg",
+        "driveId": "1iaOItHy-f3zLqAIw7YfHcdtoG8JDUEVv",
+        "driveLink": "https://drive.google.com/file/d/1iaOItHy-f3zLqAIw7YfHcdtoG8JDUEVv/view"
+      }
+    },
+    {
+      "fileName": "work-09.jpg",
+      "slot": "work",
+      "ratio": "4:5",
+      "usage": "Radiance — Cream Campaign",
+      "alt": "Radiance skincare campaign poster",
+      "currentSource": {
+        "libraryFile": "library/radiance-cream-poster.jpg",
+        "driveName": "16c0a3e6634c5f41bf005c13e0203e47.jpg",
+        "driveId": "1SAhPMWQDl6K3BS3MWv0FaoektRHSI6K4",
+        "driveLink": "https://drive.google.com/file/d/1SAhPMWQDl6K3BS3MWv0FaoektRHSI6K4/view"
+      }
+    }
+  ],
+  "library": [
+    {
+      "fileName": "library/alo-fruit-poster.jpg",
+      "driveName": "774a02bdd1599cdc4e33253a4050434a.jpg",
+      "driveId": "1hZDEcDqN5rKclV5tS8U_7VsCnTUe5bML",
+      "driveLink": "https://drive.google.com/file/d/1hZDEcDqN5rKclV5tS8U_7VsCnTUe5bML/view"
+    },
+    {
+      "fileName": "library/aloe-splash-catalogue.jpg",
+      "driveName": "466e010371269a9e7602d49d84976d43.jpg",
+      "driveId": "1wR75cyhJfezkv37uUqfYotDOM3JldY1Z",
+      "driveLink": "https://drive.google.com/file/d/1wR75cyhJfezkv37uUqfYotDOM3JldY1Z/view"
+    },
+    {
+      "fileName": "library/aura-editorial.jpg",
+      "driveName": "2b53c318ecc95a1bc3196a16bdd4ed5a.jpg",
+      "driveId": "15hW4sD_4cfb9sw26r1HWnezHHYxU7eou",
+      "driveLink": "https://drive.google.com/file/d/15hW4sD_4cfb9sw26r1HWnezHHYxU7eou/view"
+    },
+    {
+      "fileName": "library/burst-of-vitality-poster.jpg",
+      "driveName": "ad8f6e96f83d4b24823b55159ceaec6a.jpg",
+      "driveId": "186jvQIINWRxYQCQog9LLtKHZkOBlzGTh",
+      "driveLink": "https://drive.google.com/file/d/186jvQIINWRxYQCQog9LLtKHZkOBlzGTh/view"
+    },
+    {
+      "fileName": "library/citrus-juices-can.jpg",
+      "driveName": "64bd052707178ac47a44e3b60e8ab76d.jpg",
+      "driveId": "1vdaW-OB3S7xxv_Lsf5yGYmVhXYBiIIaj",
+      "driveLink": "https://drive.google.com/file/d/1vdaW-OB3S7xxv_Lsf5yGYmVhXYBiIIaj/view"
+    },
+    {
+      "fileName": "library/drygh-lifestyle.jpg",
+      "driveName": "c8a60a7cea6650d869bfe719d205d43e.jpg",
+      "driveId": "1iaOItHy-f3zLqAIw7YfHcdtoG8JDUEVv",
+      "driveLink": "https://drive.google.com/file/d/1iaOItHy-f3zLqAIw7YfHcdtoG8JDUEVv/view"
+    },
+    {
+      "fileName": "library/dubai-perfume.jpg",
+      "driveName": "1ae39476200acb3d06e6ed30670d65cf.jpg",
+      "driveId": "1x-hGmvSyS4HhIMEB5JjBYi-j8sPvUtdK",
+      "driveLink": "https://drive.google.com/file/d/1x-hGmvSyS4HhIMEB5JjBYi-j8sPvUtdK/view"
+    },
+    {
+      "fileName": "library/fresh-apple-juice.jpg",
+      "driveName": "d2ea265734ff6ac988a80acd7cd6c2d3.jpg",
+      "driveId": "12PXxBaKl61-MEQmreD0y_P6ggdVi3AiF",
+      "driveLink": "https://drive.google.com/file/d/12PXxBaKl61-MEQmreD0y_P6ggdVi3AiF/view"
+    },
+    {
+      "fileName": "library/freshgro-cranberry-poster.jpg",
+      "driveName": "c38c6a9dc53bb23cf302b2044b23c7a9.jpg",
+      "driveId": "1Rx5-0bBdxF00eS5vpGM1fJVdD_oAtJS-",
+      "driveLink": "https://drive.google.com/file/d/1Rx5-0bBdxF00eS5vpGM1fJVdD_oAtJS-/view"
+    },
+    {
+      "fileName": "library/hydrate-aloe.jpg",
+      "driveName": "39c5af7f11ba41bdd30542173fdaeffd.jpg",
+      "driveId": "1wk9-gCvLUod1kTIha7itQ2en6b6Q0MjE",
+      "driveLink": "https://drive.google.com/file/d/1wk9-gCvLUod1kTIha7itQ2en6b6Q0MjE/view"
+    },
+    {
+      "fileName": "library/labelex-strawberry.jpg",
+      "driveName": "f3be73684f893d3ce04141a7fb5404d7.jpg",
+      "driveId": "1uk1QmglRLxdPiXN4fTB8WvTa58iYkw0b",
+      "driveLink": "https://drive.google.com/file/d/1uk1QmglRLxdPiXN4fTB8WvTa58iYkw0b/view"
+    },
+    {
+      "fileName": "library/luxe-pump.jpg",
+      "driveName": "4713004b80b4b25f1e89fc01c92cfe40.jpg",
+      "driveId": "1uv3Q5vfjF7yPfpQE8F6RXiWGkV9DnDfr",
+      "driveLink": "https://drive.google.com/file/d/1uv3Q5vfjF7yPfpQE8F6RXiWGkV9DnDfr/view"
+    },
+    {
+      "fileName": "library/mathay-body-butter.jpg",
+      "driveName": "1834c8fbd3a04a8d9f04500a72bcbde7.jpg",
+      "driveId": "1lNVI3AqAZ5x_ogeCFBhSLCdVAcEGDphw",
+      "driveLink": "https://drive.google.com/file/d/1lNVI3AqAZ5x_ogeCFBhSLCdVAcEGDphw/view"
+    },
+    {
+      "fileName": "library/medicube-swipe.jpg",
+      "driveName": "8fe80d3dc187a2c608eeb2b461ac59b3.jpg",
+      "driveId": "1TF4yUjIqhCkM57rd_hAxqcJW59NSEksr",
+      "driveLink": "https://drive.google.com/file/d/1TF4yUjIqhCkM57rd_hAxqcJW59NSEksr/view"
+    },
+    {
+      "fileName": "library/medikube-creator.jpg",
+      "driveName": "98250c358534f7ef078cb1d39897722d.jpg",
+      "driveId": "1_1hBI8JeEHRXJe5qnWhayGuCbmTxzrg7",
+      "driveLink": "https://drive.google.com/file/d/1_1hBI8JeEHRXJe5qnWhayGuCbmTxzrg7/view"
+    },
+    {
+      "fileName": "library/mystic-oud-studio.jpg",
+      "driveName": "00a8e0dfb427c8d89999256e7f21b2b3.jpg",
+      "driveId": "12CzYKFMSy_P6mHEAkZBlJBq-QOibm1JG",
+      "driveLink": "https://drive.google.com/file/d/12CzYKFMSy_P6mHEAkZBlJBq-QOibm1JG/view"
+    },
+    {
+      "fileName": "library/natural-juice-poster.jpg",
+      "driveName": "397967efe91764670a447dba7bb7e0e7.jpg",
+      "driveId": "1Co9f39ABjTJDnLnnHJWrT51eeWbBM8ao",
+      "driveLink": "https://drive.google.com/file/d/1Co9f39ABjTJDnLnnHJWrT51eeWbBM8ao/view"
+    },
+    {
+      "fileName": "library/noir-perfume-dark.jpg",
+      "driveName": "fd2c35fe660f22a96df188224a60847c.jpg",
+      "driveId": "114tUGzKMnTJYtqQLhC5x1DITpfvuGh-6",
+      "driveLink": "https://drive.google.com/file/d/114tUGzKMnTJYtqQLhC5x1DITpfvuGh-6/view"
+    },
+    {
+      "fileName": "library/noir-perfume-still.jpg",
+      "driveName": "d31ea214f8610d79d5c4920126a2b1c7.jpg",
+      "driveId": "1vdGKfh8_AOBPdgZvAoKUbEArdLTLvlZy",
+      "driveLink": "https://drive.google.com/file/d/1vdGKfh8_AOBPdgZvAoKUbEArdLTLvlZy/view"
+    },
+    {
+      "fileName": "library/orange-juice-poster.jpg",
+      "driveName": "27d33af8447636dcba70fe5bf7285106.jpg",
+      "driveId": "1whpUxEHLresNsVatsUeaKLXfC6zigHrA",
+      "driveLink": "https://drive.google.com/file/d/1whpUxEHLresNsVatsUeaKLXfC6zigHrA/view"
+    },
+    {
+      "fileName": "library/oud-vanilla-editorial.jpg",
+      "driveName": "a2d5009bcf2cb95b3cbb6bce0772baf2.jpg",
+      "driveId": "1eaIwzwhn7N1_Txm_xsS7ipZ9UCjZ9ccP",
+      "driveLink": "https://drive.google.com/file/d/1eaIwzwhn7N1_Txm_xsS7ipZ9UCjZ9ccP/view"
+    },
+    {
+      "fileName": "library/perfume-amber-glow.jpg",
+      "driveName": "6b0377b1f1f9200f37c4474e0f30e383.jpg",
+      "driveId": "1GF2PLFodom-fVzK2vcez1KmGCBPkIPTx",
+      "driveLink": "https://drive.google.com/file/d/1GF2PLFodom-fVzK2vcez1KmGCBPkIPTx/view"
+    },
+    {
+      "fileName": "library/pink-rose-editorial.jpg",
+      "driveName": "141711aa39fe55a5e9aae9a9c820c606.jpg",
+      "driveId": "1wKwsgPYKewYl_tnR41An1YIbBXE7_Bp_",
+      "driveLink": "https://drive.google.com/file/d/1wKwsgPYKewYl_tnR41An1YIbBXE7_Bp_/view"
+    },
+    {
+      "fileName": "library/radiance-cream-poster.jpg",
+      "driveName": "16c0a3e6634c5f41bf005c13e0203e47.jpg",
+      "driveId": "1SAhPMWQDl6K3BS3MWv0FaoektRHSI6K4",
+      "driveLink": "https://drive.google.com/file/d/1SAhPMWQDl6K3BS3MWv0FaoektRHSI6K4/view"
+    },
+    {
+      "fileName": "library/renewed-skincare.jpg",
+      "driveName": "7dad3fefec31ec045232f3ec6447a1f2.jpg",
+      "driveId": "1aZ7ffGJtj99rNONcuByZWfwlAdt7I9Rs",
+      "driveLink": "https://drive.google.com/file/d/1aZ7ffGJtj99rNONcuByZWfwlAdt7I9Rs/view"
+    },
+    {
+      "fileName": "library/rich-mango-ice-cream.jpg",
+      "driveName": "58b0f5a1abce04f8dccfe34f59a189dc.jpg",
+      "driveId": "1ost3GpGeDL5nVpDQJ96nlqPdImd68CJ_",
+      "driveLink": "https://drive.google.com/file/d/1ost3GpGeDL5nVpDQJ96nlqPdImd68CJ_/view"
+    },
+    {
+      "fileName": "library/romance-purple-perfume.jpg",
+      "driveName": "eb8f7de5d7fec26acfd314c8f3b38843.jpg",
+      "driveId": "1gzCZa63pZe-fJwfb2Hiuh62-9qDcAE18",
+      "driveLink": "https://drive.google.com/file/d/1gzCZa63pZe-fJwfb2Hiuh62-9qDcAE18/view"
+    },
+    {
+      "fileName": "library/roots-rebooted-ugc.jpg",
+      "driveName": "6f827e72483f6be6742761ad87b9398c.jpg",
+      "driveId": "1ph25raWFNvqTF4JuL1wOQ345XEKB-DI9",
+      "driveLink": "https://drive.google.com/file/d/1ph25raWFNvqTF4JuL1wOQ345XEKB-DI9/view"
+    },
+    {
+      "fileName": "library/serum-gold-creator.jpg",
+      "driveName": "7f58f14730e0627d1f9e90324e9f2cbd.jpg",
+      "driveId": "1n358IZyJGg9d_Kj7qmj81JSMtXv3bsfV",
+      "driveLink": "https://drive.google.com/file/d/1n358IZyJGg9d_Kj7qmj81JSMtXv3bsfV/view"
+    },
+    {
+      "fileName": "library/simply-bottle.jpg",
+      "driveName": "96f76368808ac46b6960c3334711b204.jpg",
+      "driveId": "1vyRz7a7Pa15WiT-TiuuyUAQ_5lypbHC5",
+      "driveLink": "https://drive.google.com/file/d/1vyRz7a7Pa15WiT-TiuuyUAQ_5lypbHC5/view"
+    },
+    {
+      "fileName": "library/soothe-replenish-glow.jpg",
+      "driveName": "eecb671f98c7dfd5bb2fd29a780ed135.jpg",
+      "driveId": "138W7P2JWhCReaY1GkEUXNk17f51rUfYN",
+      "driveLink": "https://drive.google.com/file/d/138W7P2JWhCReaY1GkEUXNk17f51rUfYN/view"
+    },
+    {
+      "fileName": "library/tropica-mango-poster.jpg",
+      "driveName": "9ea7273d17643ca219b1247a945c1042.jpg",
+      "driveId": "1TKHPydqWaq2tc52wIGC3cSFQgptM8aAm",
+      "driveLink": "https://drive.google.com/file/d/1TKHPydqWaq2tc52wIGC3cSFQgptM8aAm/view"
+    },
+    {
+      "fileName": "library/viva-juice-poster.jpg",
+      "driveName": "5e7f372d8e90a8faa93c441da49a72df.jpg",
+      "driveId": "10Ylm1zT-gJXR_M0oLd00cpcevHwEtzaf",
+      "driveLink": "https://drive.google.com/file/d/10Ylm1zT-gJXR_M0oLd00cpcevHwEtzaf/view"
+    },
+    {
+      "fileName": "library/wild-stone-perfume.jpg",
+      "driveName": "08f3ff737e182fb81c36c0571ff8e7ab.jpg",
+      "driveId": "1iRK8UDXFslH7w5WntoyeuQo93c8XRw6W",
+      "driveLink": "https://drive.google.com/file/d/1iRK8UDXFslH7w5WntoyeuQo93c8XRw6W/view"
+    },
+    {
+      "fileName": "library/zing-lime-poster.jpg",
+      "driveName": "49b7e1a04d45a135fd035c91bb130ca5.jpg",
+      "driveId": "1nc5icc2yOG4nJ6TtIfLpj__EFmJe5NR0",
+      "driveLink": "https://drive.google.com/file/d/1nc5icc2yOG4nJ6TtIfLpj__EFmJe5NR0/view"
+    }
+  ]
+}
