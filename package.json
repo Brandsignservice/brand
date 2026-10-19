@@ -4,6 +4,7 @@
   "private": true,
   "description": "Brand Sign — premium minimalist agency website (product photography, poster design, UGC ads).",
   "scripts": {
+    "build": "node -e \"console.log('Static site — no build step required.')\"",
     "dev": "node server.mjs",
     "start": "node server.mjs",
     "serve": "node server.mjs"
